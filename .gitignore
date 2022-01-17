@@ -1,0 +1,23 @@
+# dependencies
+node_modules
+/.pnp
+.pnp.js
+package-lock.json
+
+# mise
+.DS_Store
+.env
+
+# log
+logs
+*.log
+npm-debug.log*
+dump.rdb
+
+# Runtime data
+pids
+*.pid
+*.seed
+
+# npm cache
+.npm
